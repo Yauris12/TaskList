@@ -1,0 +1,3 @@
+export const TASKS_REQUEST = 'TASKS_REQUEST'
+export const TASKS_SUCCESS = 'TASKS_SUCCESS'
+export const TAKS_FAILURE = 'TAKS_FAILURE'
