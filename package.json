@@ -1,6 +1,7 @@
 {
   "name": "goscrum",
   "version": "0.1.0",
+  "homepage": "https://Yauris12.github.io/TaskList",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
